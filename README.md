@@ -46,7 +46,7 @@
         <tbody>
             <tr>
                 <td>Performance Score</td>
-                <td>94</td>
+                <td>97</td>
                 <td>&gt; 90</td>
             </tr>
             <tr>
@@ -56,7 +56,7 @@
             </tr>
             <tr>
                 <td>LCP</td>
-                <td>1.5 s</td>
+                <td>1.1 s</td>
                 <td>&lt; 2.5s</td>
             </tr>
             <tr>
