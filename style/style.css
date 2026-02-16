@@ -11,9 +11,8 @@ html {
 
 body {
   font-family:
-    system-ui,
-    -apple-system,
-    sans-serif;
+  system-ui,
+  sans-serif;
   line-height: 1;
   color: #333;
   overflow-x: hidden;
@@ -97,14 +96,14 @@ button {
 }
 .sec1_but {
   font-weight: 600;
-  font-style: SemiBold;
+  font-style: "SemiBold";
   font-size: 2rem;
   line-height: 1rem;
   letter-spacing: 0%;
   width: 34.6rem;
   height: 5.2rem;
   margin-top: 5.9rem;
-  padding: 1.6rem 3.2rem;
+  padding: 0.5rem 2rem;
   vertical-align: middle;
 }
 .healthy_food_dilevery {
