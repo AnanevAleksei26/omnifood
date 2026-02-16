@@ -1,0 +1,21 @@
+:root {
+  --shadow-003: rgba(0, 0, 0, 0.3);
+  --button-color: #e67e22;
+  --button-text-or-fon-color: #ffffff;
+  --black-h: #333333;
+  --gray-info: #555555;
+  --sec1-fon: #fdf2e9;
+  --border-color: #fdf2e9;
+  --text-color-orange: #cf711f;
+  --big-text-gray: #dddddd;
+  --circle-big: #fdf2e9;
+  --circle-small: #fae5d3;
+  --green-oval: #51cf66;
+  --green-oval2:#94D82D;
+  --yellow-oval:#FFD43B;
+  --otziv-name:#6F6F6F;
+  --persik-color:#FDF2E9;
+  --best-value-fon:#FFD43B;
+  --sec6-text:#45260A;
+  --text_footer:#767676;
+}
