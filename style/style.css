@@ -310,6 +310,7 @@ button {
   text-transform: uppercase;
   color: var(--text-color-orange);
   margin-bottom: 1.6rem;
+  margin-left: -4rem;
 }
 
 .h2_request {
@@ -319,6 +320,7 @@ button {
   letter-spacing: -0.05rem;
   color: var(--black-h);
   max-width: 60rem;
+  margin-left: -4rem;
 }
 
 .grid {
@@ -1177,12 +1179,24 @@ footer {
     height: 53.6rem;
     opacity: 1;
   }
-  .one_phone,
-  .two_phone,
-  .thre_phone {
-    order: -1;
+  .one_phone {
+    order: 1;
   }
-  
+  .one{
+    order: 2;
+  }
+    .two_phone {
+    order: 3;
+  }
+  .two{
+    order: 4;
+  }
+    .thre_phone {
+    order: 5;
+  }
+  .thre{
+    order: 6;
+  }
   .one, .two, .thre {
     text-align: center;
     margin: 0 auto;
