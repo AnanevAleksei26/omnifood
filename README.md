@@ -56,7 +56,7 @@
             </tr>
             <tr>
                 <td>LCP</td>
-                <td>0.7 s</td>
+                <td>0.9 s</td>
                 <td>&lt; 2.5s</td>
             </tr>
             <tr>
