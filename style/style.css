@@ -212,7 +212,11 @@ button {
   object-fit: cover;
   aspect-ratio: 1/1;
 }
-
+.avatar:hover{
+  transform: scale(1.2);
+  transition: 1.5s;
+  cursor: pointer;
+}
 .avatar:first-child {
   margin-left: 0;
 }
@@ -651,6 +655,7 @@ button {
 .big_avatar:hover{
   transform: scale(1.2);
   transition: 0.8s;
+  cursor: pointer;
 }
 
 .otziv_text {
