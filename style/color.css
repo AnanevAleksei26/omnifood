@@ -11,11 +11,17 @@
   --circle-big: #fdf2e9;
   --circle-small: #fae5d3;
   --green-oval: #51cf66;
-  --green-oval2:#94D82D;
-  --yellow-oval:#FFD43B;
-  --otziv-name:#6F6F6F;
-  --persik-color:#FDF2E9;
-  --best-value-fon:#FFD43B;
-  --sec6-text:#45260A;
-  --text_footer:#767676;
+  --green-oval2: #94D82D;
+  --yellow-oval: #FFD43B;
+  --otziv-name: #6F6F6F;
+  --persik-color: #FDF2E9;
+  --best-value-fon: #FFD43B;
+  --sec6-text: #45260A;
+  --primary: #E67E22;
+  --primary-dark: #CF711F;
+  --primary-light: #FDF2E9;
+  --text-dark: #333;
+  --text-light: #555;
+  --text-muted: #767676;
+  --white: #fff;
 }

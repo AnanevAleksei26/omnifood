@@ -51,12 +51,12 @@
             </tr>
             <tr>
                 <td>FCP</td>
-                <td>0.5 s</td>
+                <td>0.6 s</td>
                 <td>&lt; 1.8s</td>
             </tr>
             <tr>
                 <td>LCP</td>
-                <td>0.8 s</td>
+                <td>0.7 s</td>
                 <td>&lt; 2.5s</td>
             </tr>
             <tr>
